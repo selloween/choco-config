@@ -1,5 +1,5 @@
 # chocolatey.config
-This is a chocolatey export of common packages I commonly install on my Windows machines.
+This is a chocolatey export of common packages install on my Windows machines.
 You can find more info on how to install and use Chocolatey here: https://chocolatey.org/
 
 ### Install Chocolatey
