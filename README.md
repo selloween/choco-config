@@ -1,5 +1,5 @@
 # chocolatey.config
-This is a chocolatey export of common packages install on my Windows machines.
+This is a chocolatey export of common packages installed on my Windows machines.
 You can adjust this config by removing package xml nodes accordingly.
 Chocolatey is a awesome package manager for Windows that makes auto installing applications a breeze.
 I've listed some basic examples on how to install and use chocolatey.
